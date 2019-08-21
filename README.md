@@ -10,7 +10,7 @@ The Grove - Yerba Buena
 690 Mission St, San Francisco, CA 94105  
 https://goo.gl/maps/ThT8ugr9VY1y73p2A  
 
-Bienvenidos todos los latinos al desayuno de VMworld 2019 US! Click [aqui](https://github.com/arielsanchezmora/vBrownBagLATAM/blob/master/Desayuno%20Latino%20en%20VMworld!%20Todo%20latino%20bienvenido!.ics) para ver todos los detalles
+Bienvenidos todos los latinos al desayuno de VMworld 2019 US! Right click y "save as" [aqui](https://github.com/arielsanchezmora/vBrownBagLATAM/blob/master/Desayuno%20Latino%20en%20VMworld!%20Todo%20latino%20bienvenido!.ics) para ver el archivo ICS con  todos los detalles
 
 
 # 2 Sesion vBrownbag VMworld US 2019
