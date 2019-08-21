@@ -1,0 +1,204 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Pacific Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Jorge Torres";RSVP=TRUE:mailto:jorget@vmware.com
+ATTENDEE;CN="Ivan Camargo";RSVP=TRUE:mailto:icamargochac@vmware.com
+ATTENDEE;CN="Raymundo Escobar";RSVP=TRUE:mailto:rcastaneda@vmware.com
+ATTENDEE;CN="Marcos Hernandez";RSVP=TRUE:mailto:hernandezm@vmware.com
+CLASS:PUBLIC
+CREATED:20190821T024314Z
+DESCRIPTION:Hola a todos!\n\n \n\nEs tradicion de la “Mafia LATAM” reun
+	irnos al menos un dia\, un poquito alejados del ajetreo de la conferencia\
+	, para desayunar\, saludarnos y conversar. \n\n \n\nSi eres latin@ (o de o
+	rigen latino y aun hablas espanol/portugues) y estas en VMworld\, estas in
+	vitado. Lo mas dificil\, claramente\, sera hacer el esfuerzo ultra-humano 
+	de levantarse temprano el martes 😊 Si no estas en el grupo de Telegra
+	m\, la invitacion al grupo es este link <https://t.me/joinchat/BxsDq1DORcB
+	s2IGZGTawjQ> \, pero debo advertir que es bastante activo\, y tambien hay 
+	un grupo de Twitter.\n\n \n\nEste evento NO es patrocinado\, ni autorizado
+	\, por VMware\, etc. Cada quien debe esperar cubrir sus gastos. Personas c
+	on “expense accounts” bienvenidas a usarlas 😃 pero nadie debe con
+	tar con ello!!\n\n \n\nEl desayuno es a las 7am hora local en The Grove Ye
+	rba Buena – no faltes a esta tradicion! https://twitter.com/arielsanchez
+	mor/status/770649757769269248 \n\n \n\nHagan forward de esta invitacion a 
+	cuanto latino conozcan que estara en el evento.\n\n \n\nDireccion en googl
+	e maps: https://goo.gl/maps/d4Kf3RgDFZyQ25yz7 \n\n \n\n\n\n \n\n \n\nTambi
+	en!\n\n \n\nInvitamos a todos los que puedan al vBrownbag TechTalk stage e
+	l martes \n\n \n\nTuesday\, August 27\n\n02:00 PM - 03:00 PM\n\nLocation: 
+	vBrownBag TechTalks stage\n\n \n\n2:15 pm Latin CTO Ambassadors\, vExpert 
+	PROs\, VMUG leaders etc panel \n\n \n\n2:30 pm Comunidad latina get-togeth
+	er\n\n \n\nEsta es una session para poder dejar grabado que estuvimos aqui
+	\, y tomarnos una foto grupal. Un ejemplo  https://www.youtube.com/watch?v
+	=2IepQehd7WE  – como solo temenos 12 minutos\, no podremos hablar tanto\
+	, pero si que cada uno diga su nombre y lo que mas le gusto de VMworld.  U
+	n ejemplo de la foto grupal es el fondo de esta cuenta: https://twitter.co
+	m/vbrownbaglatam \n\n \n\nEspero verlos pronto a tod@s!\n\n \n\nAriel Sanc
+	hez \n\nSenior Technical Account Manager\n\n214-725-0945\n\nariels@vmware.
+	com <mailto:ariels@vmware.com> \n\n \n\n
+DTEND;TZID="Pacific Standard Time":20190827T080000
+DTSTAMP:20190821T024156Z
+DTSTART;TZID="Pacific Standard Time":20190827T070000
+LAST-MODIFIED:20190821T024314Z
+LOCATION:The Grove Yerba Buena 690 Mission St\, San Francisco\, CA 94105
+ORGANIZER;CN="Ariel Sanchez":mailto:ariels@vmware.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Desayuno Latino en VMworld! Todo latino bienvenido!
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000000C8CCDA757D501000000000000000
+	010000000F76D3AC6E388C24DB916B77470581269
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:*
+	 {behavior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\
+	:* {behavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n
+	</style><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{fon
+	t-family:Wingdings\;\n	panose-1:5 0 0 0 0 0 0 0 0 0\;}\n@font-face\n	{font
+	-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{
+	font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n@font-face\n	{fo
+	nt-family:"Segoe UI Emoji"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n@font-fac
+	e\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 2 4 2 2 3\;}\n/* Style
+	 Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0in\
+	;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,
+	sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	col
+	or:#0563C1\;\n	text-decoration:underline\;}\na:visited\, span.MsoHyperlink
+	Followed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	text-decoration:un
+	derline\;}\nspan.EmailStyle17\n	{mso-style-type:personal-compose\;\n	font-
+	family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\np.recommended\, li.r
+	ecommended\, div.recommended\n	{mso-style-name:recommended\;\n	mso-margin-
+	top-alt:auto\;\n	margin-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margi
+	n-left:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-serif\;}\n
+	p.session-speakers\, li.session-speakers\, div.session-speakers\n	{mso-sty
+	le-name:session-speakers\;\n	mso-margin-top-alt:auto\;\n	margin-right:0in\
+	;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-size:11.0pt\;\
+	n	font-family:"Calibri"\,sans-serif\;}\nspan.speaker-trigger\n	{mso-style-
+	name:speaker-trigger\;}\nspan.attribute-name\n	{mso-style-name:attribute-n
+	ame\;}\nspan.attribute-values\n	{mso-style-name:attribute-values\;}\nspan.
+	mdbtnr-text\n	{mso-style-name:mdbtnr-text\;}\n.MsoChpDefault\n	{mso-style-
+	type:export-only\;\n	font-family:"Calibri"\,sans-serif\;}\n@page WordSecti
+	on1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0in 1.0in\;}\ndiv.WordSe
+	ction1\n	{page:WordSection1\;}\n/* List Definitions */\n@list l0\n	{mso-li
+	st-id:1929188409\;\n	mso-list-template-ids:101770080\;}\n@list l0:level1\n
+		{mso-level-number-format:bullet\;\n	mso-level-text:\;\n	mso-level-tab-
+	stop:.5in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	ms
+	o-ansi-font-size:10.0pt\;\n	font-family:Symbol\;}\n@list l0:level2\n	{mso-
+	level-number-format:bullet\;\n	mso-level-text:o\;\n	mso-level-tab-stop:1.0
+	in\;\n	mso-level-number-position:left\;\n	text-indent:-.25in\;\n	mso-ansi-
+	font-size:10.0pt\;\n	font-family:"Courier New"\;\n	mso-bidi-font-family:"T
+	imes New Roman"\;}\n@list l0:level3\n	{mso-level-number-format:bullet\;\n	
+	mso-level-text:\;\n	mso-level-tab-stop:1.5in\;\n	mso-level-number-posit
+	ion:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-fam
+	ily:Wingdings\;}\n@list l0:level4\n	{mso-level-number-format:bullet\;\n	ms
+	o-level-text:\;\n	mso-level-tab-stop:2.0in\;\n	mso-level-number-positio
+	n:left\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-famil
+	y:Wingdings\;}\n@list l0:level5\n	{mso-level-number-format:bullet\;\n	mso-
+	level-text:\;\n	mso-level-tab-stop:2.5in\;\n	mso-level-number-position:
+	left\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:
+	Wingdings\;}\n@list l0:level6\n	{mso-level-number-format:bullet\;\n	mso-le
+	vel-text:\;\n	mso-level-tab-stop:3.0in\;\n	mso-level-number-position:le
+	ft\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wi
+	ngdings\;}\n@list l0:level7\n	{mso-level-number-format:bullet\;\n	mso-leve
+	l-text:\;\n	mso-level-tab-stop:3.5in\;\n	mso-level-number-position:left
+	\;\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wing
+	dings\;}\n@list l0:level8\n	{mso-level-number-format:bullet\;\n	mso-level-
+	text:\;\n	mso-level-tab-stop:4.0in\;\n	mso-level-number-position:left\;
+	\n	text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingdi
+	ngs\;}\n@list l0:level9\n	{mso-level-number-format:bullet\;\n	mso-level-te
+	xt:\;\n	mso-level-tab-stop:4.5in\;\n	mso-level-number-position:left\;\n
+		text-indent:-.25in\;\n	mso-ansi-font-size:10.0pt\;\n	font-family:Wingding
+	s\;}\nol\n	{margin-bottom:0in\;}\nul\n	{margin-bottom:0in\;}\n--></style><
+	!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n
+	</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n
+	<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></hea
+	d><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1>
+	<p class=MsoNormal>Hola a todos!<o:p></o:p></p><p class=MsoNormal><o:p>&nb
+	sp\;</o:p></p><p class=MsoNormal>Es tradicion de la “Mafia LATAM” reun
+	irnos al menos un dia\, un poquito alejados del ajetreo de la conferencia\
+	, para desayunar\, saludarnos y conversar. <o:p></o:p></p><p class=MsoNorm
+	al><o:p>&nbsp\;</o:p></p><p class=MsoNormal>Si eres latin@ (o de origen la
+	tino y aun hablas espanol/portugues) y estas en VMworld\, estas invitado. 
+	Lo mas dificil\, claramente\, sera hacer el esfuerzo ultra-humano de levan
+	tarse temprano el martes <span style='font-family:"Segoe UI Emoji"\,sans-s
+	erif'>&#128522\;</span> Si no estas en el grupo de Telegram\, la invitacio
+	n al grupo es este <a href="https://t.me/joinchat/BxsDq1DORcBs2IGZGTawjQ">
+	link</a>\, pero debo advertir que es bastante activo\, y tambien hay un gr
+	upo de Twitter.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p 
+	class=MsoNormal><b><i>Este evento NO es patrocinado\, ni autorizado\, por 
+	VMware\, etc. Cada quien debe esperar cubrir sus gastos. Personas con “e
+	xpense accounts” bienvenidas a usarlas </i></b><b><i><span style='font-f
+	amily:"Segoe UI Emoji"\,sans-serif'>&#128515\;</span> pero nadie debe cont
+	ar con ello!!<o:p></o:p></i></b></p><p class=MsoNormal><o:p>&nbsp\;</o:p><
+	/p><p class=MsoNormal>El desayuno es a las 7am hora local en The Grove Yer
+	ba Buena – no faltes a esta tradicion! <span style='font-size:10.5pt\;fo
+	nt-family:"Segoe UI"\,sans-serif\;color:#14171A\;background:#E6ECF0'><a hr
+	ef="https://twitter.com/arielsanchezmor/status/770649757769269248">https:/
+	/twitter.com/arielsanchezmor/status/770649757769269248</a> </span><o:p></o
+	:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><i><u>H
+	agan forward de esta invitacion a cuanto latino conozcan que estara en el 
+	evento.<o:p></o:p></u></i></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p 
+	class=MsoNormal>Direccion en google maps: <a href="https://goo.gl/maps/d4K
+	f3RgDFZyQ25yz7">https://goo.gl/maps/d4Kf3RgDFZyQ25yz7</a> <o:p></o:p></p><
+	p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><img border=0 w
+	idth=1079 height=772 style='width:11.2343in\;height:8.0364in' id="Picture_
+	x0020_1" src="cid:image002.jpg@01D557A8.7888EF60"><o:p></o:p></p><p class=
+	MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><
+	p class=MsoNormal><b><u><span style='font-size:16.0pt'>Tambien!<o:p></o:p>
+	</span></u></b></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNo
+	rmal>Invitamos a todos los que puedan al vBrownbag TechTalk stage el marte
+	s <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNorm
+	al>Tuesday\, August 27<o:p></o:p></p><p class=MsoNormal>02:00 PM - 03:00 P
+	M<o:p></o:p></p><p class=MsoNormal>Location: vBrownBag TechTalks stage<o:p
+	></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>2:1
+	5 pm Latin CTO Ambassadors\, vExpert PROs\, VMUG leaders etc panel <o:p></
+	o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoNormal>2:30 p
+	m Comunidad latina get-together<o:p></o:p></p><p class=MsoNormal><o:p>&nbs
+	p\;</o:p></p><p class=MsoNormal>Esta es una session para poder dejar graba
+	do que estuvimos aqui\, y tomarnos una foto grupal. Un ejemplo  <a href="
+	https://www.youtube.com/watch?v=2IepQehd7WE">https://www.youtube.com/watch
+	?v=2IepQehd7WE</a>  – como solo temenos 12 minutos\, no podremos hablar
+	 tanto\, pero si que cada uno diga su nombre y lo que mas le gusto de VMwo
+	rld. &nbsp\;Un ejemplo de la foto grupal es el fondo de esta cuenta: <a hr
+	ef="https://twitter.com/vbrownbaglatam">https://twitter.com/vbrownbaglatam
+	</a> <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p><p class=MsoN
+	ormal>Espero verlos pronto a tod@s!<o:p></o:p></p><p class=MsoNormal><o:p>
+	&nbsp\;</o:p></p><p class=MsoNormal><span style='font-size:10.5pt\;color:b
+	lack'>Ariel Sanchez <o:p></o:p></span></p><p class=MsoNormal><span style='
+	font-size:10.5pt\;color:black'>Senior Technical Account Manager<o:p></o:p>
+	</span></p><p class=MsoNormal><span style='font-size:10.5pt\;color:black'>
+	214-725-0945<o:p></o:p></span></p><p class=MsoNormal><span style='font-siz
+	e:10.5pt\;color:black'><a href="mailto:ariels@vmware.com">ariels@vmware.co
+	m</a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp\;</o:p></p></div>
+	</body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20190821T024156Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
